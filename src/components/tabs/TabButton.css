@@ -1,0 +1,31 @@
+.tab__button_underline {
+  margin-top: 4px;
+  border-bottom: 2px solid #beb8b8;
+}
+
+.tab__button {
+  border-color: #beb8b8;
+  border-style: solid;
+  border-width: 2px 0 0 0;
+  background: none;
+  padding: 4px 8px;
+  color: #beb8b8;
+  font-size: 1.25rem;
+  min-width: fit-content;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.tab__button-left,
+.tab__button-middle {
+  border-left-width: 2px;
+}
+
+.tab__button-right,
+.tab__button-middle {
+  border-right-width: 2px;
+}
+
+.tab__button-active {
+  color: #ffea00;
+}

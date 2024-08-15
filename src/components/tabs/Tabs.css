@@ -1,0 +1,21 @@
+.tabs {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.tabs__buttons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.tabs__tabs {
+  border: 2px solid #beb8b8;
+}
+
+.tab-container {
+  padding: 8px 12px;
+}

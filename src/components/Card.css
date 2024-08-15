@@ -1,0 +1,25 @@
+.card {
+  width: 90%;
+  padding: 12px 16px;
+  background: linear-gradient(280deg, #2b2b2b, #333a48);
+  border-radius: 16px;
+  margin: 16px auto;
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.2);
+  border: 1px solid #beb8b8;
+}
+
+.card strong {
+  color: #00ffff;
+}
+
+.card_title {
+  text-align: center;
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+@media (min-width: 50rem) {
+  .card {
+    width: 75%;
+  }
+}

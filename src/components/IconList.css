@@ -1,0 +1,32 @@
+.icon-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 0;
+}
+
+.icon-list__item {
+  margin: 1.4rem;
+}
+
+.icon-list__item__image {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+}
+
+.icon-list__item__title {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+@media (min-width: 50rem) {
+  .icon-list__item__image {
+    width: 12rem;
+    height: 12rem;
+    object-fit: contain;
+  }
+}
