@@ -17,7 +17,7 @@ function App() {
                 <Card title="Introduction">
                     Hi! My name is <strong>DifficultBit</strong>. Depending on the platform I might also go
                     by <strong>DifficultBit2901</strong>, <strong>Difficult_Bit</strong> or <strong>Difficult_Bit2901</strong>.
-                    I'm 19 and go by <strong>they/them</strong> pronouns. I enjoy coding, mostly in the field of game
+                    I'm 19 and go by <strong>they/it</strong> pronouns. I enjoy coding, mostly in the field of game
                     development.
                 </Card>
                 <Card title="Experience">

@@ -91,6 +91,11 @@ export const SOCIAL_LINKS = [
     link: "https://twitter.com/DBit2901",
   },
   {
+    name: "Bluesky: @difficultbit2901.bsky.social",
+    img: "https://pbs.twimg.com/profile_images/1738291333268377600/QjJngnVB_400x400.jpg",
+    link: "https://bsky.app/profile/difficultbit2901.bsky.social"
+  },
+  {
     name: "YouTube: @Difficult_Bit",
     link: "https://www.youtube.com/channel/UCBRbd6B0kOvdPhen2pPIHtg",
     img: logoYoutube
